@@ -1,2 +1,2 @@
 # DSA
-Using C++
+Using C/C++
